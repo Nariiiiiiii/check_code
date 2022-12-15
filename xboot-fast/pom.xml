@@ -129,7 +129,7 @@
         <dependency>
             <groupId>com.qiniu</groupId>
             <artifactId>qiniu-java-sdk</artifactId>
-            <version>7.6.0</version>
+            <version>7.12.0</version>
         </dependency>
         <!-- Jasypt加密 -->
         <dependency>
